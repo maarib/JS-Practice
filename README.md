@@ -1,7 +1,13 @@
 # JS-Practice
 Practice material, exercises, source code for stuff I do with this repo
 
+***
+
+<img src="https://cdn-media-1.freecodecamp.org/images/1*H-25KB7EbSHjv70HXrdl6w.png"></img>
+
 Stuff that will be covered:
+
+***
 
 MDN's JavaScript Guide - After the launch MDN quickly became the de-facto reference for JavaScript, HTML and CSS. Their guide is very solid, covering things like grammar and types, loops, functions, expressions, numbers and dates, text formatting, etc.
 
