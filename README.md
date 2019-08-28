@@ -25,3 +25,7 @@ Plugin Help: `https://plainjs.com/javascript/plugins/ui/`
 CSS Tricks: `https://css-tricks.com/guides/`
 
 From Zero to Front-End Hero: `https://medium.com/free-code-camp/from-zero-to-front-end-hero-part-2-adfa4824da9b`
+
+## License
+
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC0%201.0-brightgreen.svg?style=flat-square)](https://creativecommons.org/licenses/by/4.0/)
