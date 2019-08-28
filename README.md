@@ -13,3 +13,9 @@ Free Code Camp - Free Code Camp is a community where you will work through self-
 
 CodeCademy - Another platform for JavaScript challenges. It's very beginner oriented and easy to use.
 
+- - -
+
+Plugin Help: `https://plainjs.com/javascript/plugins/ui/`
+CSS Tricks: `https://css-tricks.com/guides/`
+
+From Zero to Front-End Hero: `https://medium.com/free-code-camp/from-zero-to-front-end-hero-part-2-adfa4824da9b`
