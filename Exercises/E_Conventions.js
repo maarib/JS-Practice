@@ -11,7 +11,7 @@ for (let i = 0; i < secondsInADay ;i +=1) {
 const exampleArray = [[['value']]];
 document.write("The value inside the inception array is: " + exampleArray[0][0][0]);
 
-*/
+
 
 // Deep nesting (Part-2 | With a function)
 
@@ -24,3 +24,6 @@ exampleArray.forEach((array1)) => {
         }
     }
 }
+
+*/
+
