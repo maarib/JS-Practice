@@ -1,5 +1,5 @@
 # JS-Practice
-Practice material, exercises, source code for stuff I do with this repo
+Practice material for Students
 
 ***
 
